@@ -4,7 +4,7 @@
 [![Java Version](https://img.shields.io/badge/Java-21-orange?style=for-the-badge&logo=openjdk)](https://adoptium.net/)
 [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](https://opensource.org/licenses/MIT)
 
-> **The ultimate Lavalink configuration for high-fidelity audio, featuring 11+ plugins, 40+ music sources, and anti-ban persistent sessions.**
+> **The ultimate Lavalink configuration for high-fidelity audio, featuring 7+ plugins, 20+ music sources, and anti-ban persistent sessions.**
 
 ---
 
